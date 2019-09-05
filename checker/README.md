@@ -1,8 +1,8 @@
 # Tunnel Checker
 
-Contributors: @hequnwei @zhouxiz9
 
-This assignment submission contains five Java files.
+
+This doc contains five Java files.
 
 `Game.java`: The entry for the game. The main function sets up the environment and calls `play` to start a Human-AI game. Unless the game over conditions are satisfied, it calls `getHumanMove` and `getAIMove` alternately to take input from human and to get move from the AI. It also provides `simulatePlay` to simulate a AI-AI game.
 
