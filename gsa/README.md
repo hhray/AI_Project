@@ -1,8 +1,7 @@
 # GSA framework
 
-Contributors: @hequnwei @zhouxiz9
 
-This assignment submission contains three racket files. 
+This doc contains three racket files. 
 
 `gsa.rkt`: the GSA framework. The main function is `graph-search`. It takes five arguments: `graph`, `start-states`, `goal-predicate`, `search-strategy`, `search-mode`. The search framework can take any search strategy that implements the SearchStrategy structure. Eight hardcoded search strategies are provided: `bfs`, `dfs`, `lowest-cost-first`, `depth-limited`, `iterative-deepening`, `heuristic`, `best-first`, `a-star`.	
 
